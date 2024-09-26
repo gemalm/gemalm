@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [Mindler](https://mindler.se/) as QA and Test Specialist.
-- 🌱 I’m currently specializing in QA automation.
+- 🔭 I’m currently open to work.
+- 🌱 I’m a software engineer with experience as a full stack developer and as a QE.
 - 📫 How to reach me:
 <div align="center">
 
