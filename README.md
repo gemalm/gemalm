@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently open to work.
 - 🌱 I’m a software engineer with experience as a full stack developer and as a QE.
+- 😄 I’m currently learning data science.
+- 🔭 I am ooking for work and seeking positions as a junior data scientist or data engineer.
 - 📫 How to reach me:
 <div align="center">
 
