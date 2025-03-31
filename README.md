@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a software engineer with experience as a full stack developer and as a QE.
 - 😄 I’m currently learning data science.
-- 🔭 I am looking for work and seeking positions as a junior data scientist or data engineer.
+- 🔭 I am looking for work and seeking positions as data engineer.
 - 📫 How to reach me:
 <div align="center">
 
