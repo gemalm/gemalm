@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I am looking for work and seeking positions as data engineer.
 -->
 
 - 🌱 I’m a software engineer with experience as a full stack developer and as a QE.
 - 😄 I’m currently learning data science.
-- 🔭 I am looking for work and seeking positions as data engineer.
 - 📫 How to reach me:
 <div align="center">
 
