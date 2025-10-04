@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m a software engineer with experience as a full stack developer and as a QE.
+- 🔭 I’m currently working as a teacher of electronics.
 - 😄 I’m currently learning data science.
 - 📫 How to reach me:
 <div align="center">
